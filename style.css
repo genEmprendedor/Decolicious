@@ -90,6 +90,9 @@ logo {
 }
 
 /*Leasing*/
+#lease {
+  margin-bottom: 3.25rem;
+}
 .hero-image {
   background-image: url(img/lease1.jpg);
   background-color: #cccccc;
@@ -225,5 +228,15 @@ hr.socket {
   }
   .card-body p {
     text-align: left;
+  }
+  .hero-text {
+    color: #d4af37;
+  }
+  .leaseInfo {
+    margin-left: 0;
+    margin-bottom: 3.5rem;
+  }
+  #informacion {
+    margin-top: -1.5rem;
   }
 }

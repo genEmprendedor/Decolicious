@@ -110,6 +110,14 @@ logo {
   margin-left: 2rem;
   text-transform: uppercase;
 }
+.leaseInfo {
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.leaseSubtitulo {
+  margin-left: 1.6rem;
+  margin-bottom: 1rem;
+}
 
 /*Portfolio */
 #jumbotron {

@@ -149,6 +149,10 @@ h3.heading {
 .portfolio {
   overflow: hidden;
 }
+#portfolio {
+  margin-bottom: 1.75rem;
+}
+
 .row.no-padding [class*="col-"] {
   padding: 0;
 }
@@ -222,7 +226,4 @@ hr.socket {
   .card-body p {
     text-align: left;
   }
-}
-#portfolio {
-  margin-bottom: 1.75rem;
 }

@@ -159,7 +159,12 @@ h3.heading {
 .row.no-padding [class*="col-"] {
   padding: 0;
 }
-
+#location {
+  padding-top: 2rem;
+}
+#locacion {
+  margin-bottom: -1rem;
+}
 /* Set the size of the div element that contains the map */
 #map {
   margin-top: 2rem;

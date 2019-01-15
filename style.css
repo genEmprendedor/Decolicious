@@ -166,6 +166,11 @@ h3.heading {
   height: 400px; /* The height is 400 pixels */
   width: 100%; /* The width is the width of the web page */
 }
+#directions {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
 
 /*contact*/
 footer {

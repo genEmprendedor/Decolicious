@@ -159,6 +159,11 @@ h3.heading {
 .row.no-padding [class*="col-"] {
   padding: 0;
 }
+
+#photosby {
+  text-align: center;
+  font-size: 0.75rem;
+}
 #location {
   padding-top: 2rem;
 }

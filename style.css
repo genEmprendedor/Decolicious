@@ -170,6 +170,10 @@ h3.heading {
 #locacion {
   margin-bottom: -1rem;
 }
+#pexels {
+  font-size: .6rem;
+  margin-top: -1rem;
+}
 /* Set the size of the div element that contains the map */
 #map {
   margin-top: 2rem;

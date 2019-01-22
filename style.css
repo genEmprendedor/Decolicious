@@ -264,6 +264,9 @@ main{
 .hero img{
   width: 100%;
 }
+#hero-block {
+  margin-top: 3rem;
+}
 
 /* Media queries */
 @media (max-width: 767px) {

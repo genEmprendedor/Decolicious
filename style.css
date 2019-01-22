@@ -267,6 +267,9 @@ main{
 #hero-block {
   margin-top: 3rem;
 }
+#404-button {
+  margin-bottom: 1rem;
+}
 
 /* Media queries */
 @media (max-width: 767px) {

@@ -221,6 +221,42 @@ hr.socket {
   margin-bottom: 0.5rem;
 }
 
+/* 404 Page */
+.hero{
+  width: 100%;
+  max-width: 1200px;
+  height: 500px;
+  text-align: center;
+  margin: 0 auto;
+  background: #392f28;
+  position: relative; 
+  color: #392f28;
+}
+
+.hero h1{
+  font-size: 4.1em;
+  margin: auto;
+  position: absolute; 
+  top: 120px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+.hero p{
+  font-size: 1.5em;
+  margin: auto;
+  position: absolute; 
+  top: 220px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+   z-index: 1;
+}
+.hero img{
+  width: 100%;
+}
+
 /* Media queries */
 @media (max-width: 767px) {
   .carousel-caption h1 {

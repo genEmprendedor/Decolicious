@@ -222,6 +222,11 @@ hr.socket {
 }
 
 /* 404 Page */
+main{
+  width: 100%;
+  overflow: hidden;
+  font-family: 'Expletus Sans', cursive;
+}
 .hero{
   width: 100%;
   max-width: 1200px;

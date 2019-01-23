@@ -264,12 +264,8 @@ main{
 .hero img{
   width: 100%;
 }
-#hero-block {
-  margin-top: 3rem;
-}
-#404-button {
-  margin-bottom: 1rem;
-}
+
+
 
 /* Media queries */
 @media (max-width: 767px) {

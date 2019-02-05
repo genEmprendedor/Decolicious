@@ -4,7 +4,8 @@
 
 body {
   overflow-x: hidden;
-  font-family: "Lato", sans-serif;
+  /*font-family: "Lato", sans-serif; */
+  font-family: "Helvetica", sans-serif;
   color: #505962;
 }
 
@@ -14,17 +15,15 @@ body {
   content: "";
   display: block;
 }
-
+/*
 logo {
   font-family: "Poiret One", cursive;
-  /*font-family: 'Josefin Sans', sans-serif;*/
   text-shadow: 4px 4px 4px #aaa;
   color: #d4af37;
 }
-
+*/
 #logo {
   font-family: "Josefin Sans", sans-serif;
-  /*text-shadow: 4px 4px 4px #aaa; */
   color: #d4af37;
   text-transform: capitalize;
   font-size: 1.5rem;

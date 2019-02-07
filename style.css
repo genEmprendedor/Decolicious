@@ -289,7 +289,7 @@ main {
 @media (min-width: 667px) {
   .top-hero {
     height: 100vh;
-    min-height: 500px;
+    min-height: 600px;
     margin-bottom: 2rem;
   }
 }

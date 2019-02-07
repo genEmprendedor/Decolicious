@@ -52,7 +52,7 @@ logo {
 /* Main Hero */
 .top-hero {
   height: 100vh;
-  min-height: 300px;
+  min-height: 400px; /* used to be 300px  */
   margin-bottom: 2rem;
 }
 

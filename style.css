@@ -57,23 +57,24 @@ logo {
 }
 
 .top-hero-image {
-            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/slide-1.jpg");
-            height: 100%;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            position: relative;
-        }
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("img/slide-1.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
 .top-hero-text {
-            text-align: center;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            margin-top: 1.75rem;            
-        }
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  margin-top: 1.75rem;
+}
 
 .top-hero-text h1 {
   font-size: 3.9rem;
@@ -106,7 +107,7 @@ logo {
 .hero-image {
   background-image: url("img/lease-1.jpg");
   background-color: #cccccc;
-  height: 500px; 
+  height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -120,7 +121,7 @@ logo {
   transform: translate(-50%, -50%);
   color: blanchedalmond;
   text-shadow: 0.1rem 0.1rem 0.8rem black;
-  margin-left: .75rem;
+  margin-left: 0.75rem;
   text-transform: uppercase;
 }
 .leaseInfo {
@@ -157,7 +158,7 @@ h3.heading {
   max-height: 400px;
   max-width: 400px;
   transition: transform 0.5s ease;
-} 
+}
 .portfolio img:hover {
   transform: scale(1.1);
   cursor: zoom-in;
@@ -193,7 +194,7 @@ h3.heading {
   margin-bottom: -1rem;
 }
 #pexels {
-  font-size: .6rem;
+  font-size: 0.6rem;
   margin-top: -1rem;
 }
 /* Set the size of the div element that contains the map */
@@ -202,7 +203,6 @@ h3.heading {
   height: 400px; /* The height is 400 pixels */
   width: 100%; /* The width is the width of the web page */
 }
-
 
 /*contact*/
 footer {
@@ -244,12 +244,12 @@ hr.socket {
 }
 
 /* 404 Page */
-main{
+main {
   width: 100%;
   overflow: hidden;
-  font-family: 'Josefin Sans', cursive;
+  font-family: "Josefin Sans", cursive;
 }
-.hero{
+.hero {
   width: 100%;
   max-width: 1200px;
   height: 100%;
@@ -257,14 +257,13 @@ main{
   text-align: center;
   margin: 0 auto;
   background: #392f28;
-  position: relative; 
-  
+  position: relative;
 }
 
-.hero h1{
+.hero h1 {
   font-size: 4.1em;
   margin: auto;
-  position: absolute; 
+  position: absolute;
   top: 120px;
   left: 0;
   right: 0;
@@ -272,26 +271,25 @@ main{
   z-index: 1;
   color: #d4af37;
 }
-.hero p{
+.hero p {
   font-size: 1.5em;
   margin: auto;
-  position: absolute; 
+  position: absolute;
   top: 220px;
   left: 0;
   right: 0;
   bottom: 0;
   z-index: 1;
-  color: #FFF;
+  color: #fff;
 }
-.hero img{
+.hero img {
   width: 100%;
 }
 
-
-@media (min-width: 769px) {
+@media (min-width: 667px) {
   .top-hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("img/slide-1-large.jpg");
+      url("img/slide-1-large.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -315,12 +313,10 @@ main{
     max-width: 100%;
   }
 
-/* Portfolio */
+  /* Portfolio */
   .portfolio img {
     max-width: 100%;
   }
-  
-  /* Location */
-  
 
+  /* Location */
 }

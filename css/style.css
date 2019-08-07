@@ -522,8 +522,13 @@ footer {
   background-color: #40474e;
   color: #ffffff;
 }
+
 footer img {
-  height: 3rem;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1%;
+  padding: 1rem;
+  margin: auto;
 }
 
 footer a {
@@ -559,9 +564,9 @@ hr.socket {
   font-size: 1.25rem;
 }
 
-#contact img {
+/*#contact img {
   margin: 1rem;
-}
+}*/
 
 #contact p {
   font-size: 1rem;
